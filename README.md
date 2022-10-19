@@ -1,8 +1,10 @@
 # 1998-People-Lip-Language-Video-Data
-https://www.datatang.ai/datasets/2
+
 
 ## Description
 1,998 People - Lip Language Video Data. The data diversity includes multiple scenes, multiple ages and multiple time periods. In each video, the lip language of 8-bit Arabic numbers was collected. In this dataset, there are 41,866 videos and the total duration is 86 hours 56 minutes 1.52 seconds. This dataset can be used in tasks such as face anti-spoofing recognition, lip language recognition, etc.
+
+For more details, please refer to the link: https://bit.ly/3Ca7Xfu
 
 ## Data size
 1,998 people, at least 14 videos per person; 41,866 videos in total
@@ -30,3 +32,7 @@ the lip language videos of 8-bit Arabic numbers were collected by the subjects
 
 ## Accuracy
 the accuracy of labels of shooting time, video content is not less than 95%
+
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
