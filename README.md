@@ -4,7 +4,8 @@
 ## Description
 1,998 People - Lip Language Video Data. The data diversity includes multiple scenes, multiple ages and multiple time periods. In each video, the lip language of 8-bit Arabic numbers was collected. In this dataset, there are 41,866 videos and the total duration is 86 hours 56 minutes 1.52 seconds. This dataset can be used in tasks such as face anti-spoofing recognition, lip language recognition, etc.
 
-For more details, please refer to the link: https://bit.ly/3Ca7Xfu
+For more details, please refer to the link: https://www.nexdata.ai/datasets/2?source=Github
+
 
 ## Data size
 1,998 people, at least 14 videos per person; 41,866 videos in total
